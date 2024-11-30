@@ -1,2 +1,2 @@
 prin("latihan")
-print("Tugas GIT 1")
+print("Tugas Pemdas Git")
